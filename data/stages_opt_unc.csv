@@ -1,4 +1,4 @@
-date_soutenance,type,uo,sujet, description, etudiants, url_git,url_youtube,url_article
+date_soutenance,project_type,uo,sujet, description, etudiants, url_git,url_youtube,url_article
 2025-09-29,PROJET_TUTORE,DSI/SMO/GLIA,"Utiliser des techniques de ML et IA pour comprendre, classifier et prédire les temps d'attente en agence de l'OPT-NC",,Astride SAMANTenisio LAGIKULA,https://github.com/adriens/referentiel-emplois-opt-nc,,
 2025-09-29,PROJET_TUTORE,DSI/SMO/GLIA,"Le référentiel des emplois de l'OPT-NC... en data, dataviz & ML",,"Sarah CHALIER,Hugo Fantin",https://github.com/adriens/referentiel-emplois-opt-nc,,
 2025-09-20,STAGE,DSI/SMO/GLIA, Un front-end NEXT.js pour localiser les agences de l'OPT-NC,,Quoc-Kim BUI,https://github.com/adriens/unc-temps-attente-nextjs,https://youtu.be/5Kk9QZ7YdWU,
